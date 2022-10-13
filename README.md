@@ -17,3 +17,9 @@ Data was cleaned and analyzed using Google BigQuery.<br/>
 6. What continents had the highest death count?<br/>
 7. What was the global death percentage rate (total and by date)?<br/>
 
+📊**Tableau Visualization**
+
+**Data visualization was completed in Tableau Public**<br/>
+
+Dashboard Link⬇️<br/>
+https://public.tableau.com/views/Covid-19Project_16656283720430/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link<br/>
